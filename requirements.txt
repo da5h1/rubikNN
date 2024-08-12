@@ -1,0 +1,10 @@
+json==2.0.9
+numpy==1.26.4
+torch==2.2.1
+sklearn==1.3.0
+random
+tqdm==4.65.0
+typing
+copy
+sys
+time
